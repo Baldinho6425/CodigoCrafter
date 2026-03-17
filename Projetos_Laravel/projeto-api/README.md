@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Desafio: API CRUD de Produtos  
+## API CRUD de Produtos  
 
 Este desafio propõe o desenvolvimento de uma **API CRUD** para gerenciamento de produtos, uma funcionalidade amplamente utilizada em aplicações modernas. O objetivo é criar um sistema simples e funcional que abrange backend, frontend e integração com banco de dados.  
 
